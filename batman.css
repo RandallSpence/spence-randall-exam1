@@ -1,0 +1,23 @@
+.blackbg{ 
+    background-color:black;
+    height: 100px
+}
+.row{
+    width: 1200px;
+}
+.whitebg{
+    background-color:white;
+    height: 100px;
+    
+}
+
+.blackbg:hover{
+    background-color: green;
+    
+}
+
+.whitebg:hover{
+    background-color: blue;
+    
+    
+}
